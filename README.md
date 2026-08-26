@@ -1,7 +1,7 @@
 
 # Sobre mim
 
-Sou estudante de ADS - Análise e Desenvolvimento de Sistemas na UNIPÊ, e tenho objetivo de desenvolver projetos em equipe para adquirir bastante experiência e conseguir obter resultados para as empresas 
+Sou estudante de ADS - Análise e Desenvolvimento de Sistemas na UNIPÊ, e tenho objetivo de desenvolver projetos para adquirir bastante experiência e conseguir obter resultados para as empresas 
 
 
 ## 🔗 Links
